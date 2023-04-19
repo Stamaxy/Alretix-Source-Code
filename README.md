@@ -7,13 +7,10 @@ Para obtener **NODEJS** dirigete a este link: **[NODEJS](https://nodejs.org/es/d
 Una vez instalado (Git) ejecuta en la consola en la ruta que gustes el siguiente comando:
 
 Puedes omitir el paso anterior descargando todo el Source Code en un .ZIP:
-(https://cdn.discordapp.com/attachments/939943160166121572/953884600764096522/unknown.png)
 
 Una vez descargado todo, vaya a la carpeta del Source Code y haga lo siguiente:
 
 Editar el archivo `config.json` y añadir lo que se requiere.
-(https://cdn.discordapp.com/attachments/939943160166121572/953883550623629312/unknown.png)<br>
-Para obtener el `Bot ID` y `Bot TOKEN` que se requiere debes crear un Bot, te puedes manejar en este link:
 
 https://discord.com/developers/applications/
 Una vez hecho el paso de arriba abriremos la consola y ejecutaremos lo siguiente:
